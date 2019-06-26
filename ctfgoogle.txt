@@ -2,24 +2,41 @@
 
 CTF{welcome_to_googlectf}
 
-#osmium 
+*osmium 
 
-CTF{4efcc72090af28fd33a2118985541f92e793477f}
+  CTF{4efcc72090af28fd33a2118985541f92e793477f}
 
-#ad 
+*ad 
 
-CTF{9e796ca74932912c216a1cd00c25c84fae00e139}
+  CTF{9e796ca74932912c216a1cd00c25c84fae00e139}
+
+*satellite 
+ 
+ username : wireshark-rocks
+ password : start-sniffing!
+ ...
+  
+  CTF{4efcc72090af28fd33a2118985541f92e793477f}
 
 --WORK COMPUTER --
 
+*(home computer - forensics ) 
+  
+  CTF{congratsyoufoundmycreds}
 
-* readme.ctfcompetition.com 1337 *
 
-CTF{4ll_D474_5h4ll_B3_Fr33}
+* readme.ctfcompetition.com 1337 ??
+
+  CTF{4ll_D474_5h4ll_B3_Fr33}
 
 
 
 -- HOME COMPUTER --
-http://emoji-t0anaxnr3nacpt4na.web.ctfcompetition.com/
-link for cats pics 
 
+todo : find the flags for:
+*Government Agriculture Network
+*FriendSpaceBookPlusAllAccessRedPremium...
+the friendspace blah blah leads to a site with cat pics ... weird flex but ok...
+http://emoji-t0anaxnr3nacpt4na.web.ctfcompetition.com/
+(link for cats pics )
+try to decipher it to move forward 
